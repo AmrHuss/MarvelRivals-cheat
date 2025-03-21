@@ -1,6 +1,6 @@
 MarvelRivals Cheat
 
-The code base was created quickly in around 30 minutes, so it may be a bit rough, but it works!
+The  base was created quickly in around 30 minutes as a joke in but it works!!
 
 Features:
 
